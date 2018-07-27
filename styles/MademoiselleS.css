@@ -1,0 +1,74 @@
+h1 {
+font-size: 30px;
+color: #BC8F8F;
+}
+body {
+  text-align: center;
+}
+ul li {
+  list-style: none;
+  font-size: 25px;
+  color: #BC8F8F
+}
+p {
+  font-size: 22px;
+}
+img {
+  width: 400px; height: 400px;
+}
+.img1
+ {
+  border:  3px solid BlanchedAlmond;
+}
+.img2
+ {
+  border:  3px solid BlanchedAlmond;
+}
+.img3
+ {
+  border:  3px solid BlanchedAlmond;
+}
+body {
+  background-color: #FFEBCD;
+}
+h1 {
+  letter-spacing: 2pt;
+  font-style: italic;
+  font-size: 60px;
+}
+h1 {
+  padding-top: 3px;
+}
+@keyframes bouceIn {
+  0% {
+    transform: scale(0.1);
+    opacity: 1;
+    }
+    40% {
+      transform: scale(0.5);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(1);
+      opacity: 1;
+       }
+}
+h1 {
+  animation-name: bouceIn;
+  animation-duration: 4s;
+}
+.test:hover {
+  color: MediumOrchid;
+}
+MademoiselleS <nav class="menu">
+<ul>
+<li><a href="#Home"</a></li>
+<li><a href="#beauté"</a></li>
+<li><a href="#Lifestyle"</a></li>
+<li><a href="#DIY"</a></li>
+<li><a href="#Coaching Beauté et Moe"</a></li>
+<li><a href="#Home"</a></li>
+<li><a href="#Home"</a></li>
+<li><a href="#Home"</a></li>
+</ul>
+</nav>
